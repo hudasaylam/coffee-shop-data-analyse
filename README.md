@@ -1,1 +1,1 @@
-# coffee-shop-data-analyse
+# coffee-shop-data-visualization
